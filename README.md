@@ -81,6 +81,7 @@
 
 ---
 
+<!-- Temporarily commented out due to 402 Payment Required errors on the public servers
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -100,6 +101,7 @@
 </p>
 
 ---
+-->
 
 # 🐍 Contribution Snake
 
