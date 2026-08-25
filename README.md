@@ -45,23 +45,6 @@
 
 ---
 
-## 🔗 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/denisha22" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:denishababariya7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/denisha227" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
@@ -170,7 +153,7 @@
 
 ---
 
-# 📚 Currently Learning
+<!-- # 📚 Currently Learning
 
 ```text
 Java
@@ -189,27 +172,35 @@ TypeScript
  └── Full-Stack Development
 ```
 
----
+--- -->
 
-
-# ⚡ GitHub Metrics
+# 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denisha227&theme=tokyonight" />
-
+  <img src="https://streak-stats.demolab.com?user=denisha227&theme=dark&hide_border=true&ring=00C7FF&fire=00C7FF&currStreakLabel=00C7FF" alt="GitHub Streak" />
 </p>
 
 ---
 
-# 🎯 2026 Goals
+<p align="center">
 
-* 🚀 Become stronger in Full-Stack Development
-* 🧠 Solve more DSA problems
-* 🤝 Contribute more to Open Source
-* 📈 Maintain a consistent GitHub contribution streak
+## 🔗 Connect With Me
 
----
+<p align="left">
+
+<a href="https://linkedin.com/in/denisha22" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:denishababariya7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/denisha227" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 <p align="center">
 
