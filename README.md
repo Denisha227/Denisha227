@@ -101,16 +101,10 @@
 
 ---
 
-## 🐍 My Contributions
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/denisha227/Denisha227/output/github-contribution-grid-snake.svg)
-
-
-
-<h2>🐍 Contribution Snake</h2>
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/denisha227/denisha227/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/denisha227/Denisha227/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
