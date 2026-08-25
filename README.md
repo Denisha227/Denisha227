@@ -1,4 +1,4 @@
-<h1 align="center">Hello Folks 👋, I'm Denisha</h1>
+<h1 align="center">Hello Folks 👋, I'm Denishaa</h1>
 
 <p align="center">
   I am a <strong>Computer Engineering Student, Java & MERN Developer, and DSA Enthusiast</strong>.
