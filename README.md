@@ -113,10 +113,10 @@
 
 # 🐍 Contribution Snake
 
+<h2>🐍 Contribution Snake</h2>
+
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/denisha227/denisha227/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
+  <img src="https://raw.githubusercontent.com/denisha227/denisha227/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -125,9 +125,6 @@
 
 <p align="left">
 
-<a href="https://leetcode.com/u/Denisha_02/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
 
 <a href="https://github.com/denisha227">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
