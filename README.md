@@ -35,6 +35,8 @@
 
 ## 🚀 About Me
 
+<img src="https://raw.githubusercontent.com/Brajesh31/Brajesh31/main/thoughtworks-gif_dribbble.gif" width="300" align="right" />
+
 * 🎓 Computer Engineering Student
 * 💻 Passionate about **Java, DSA & Full-Stack Development**
 * 🔥 Practicing **Data Structures & Algorithms**
