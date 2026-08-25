@@ -1,17 +1,33 @@
-# 👋 Hi, I'm Denisha
-
-<h3 align="center">💻 Computer Engineering Student | Java & MERN Developer | DSA Enthusiast</h3>
+<h1 align="center">Hello Folks 👋, I'm Denisha</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=denisha227&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  I am a <strong>Computer Engineering Student, Java & MERN Developer, and DSA Enthusiast</strong>.
+  <br>
+  Passionate about building scalable products and solving complex algorithms.
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00C7FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student.;Java+%26+MERN+Developer.;DSA+Enthusiast.;Building+scalable+products."
+    alt="Typing introduction"
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/denisha227">
-    <img src="https://img.shields.io/github/followers/denisha227?label=Followers&style=for-the-badge" />
+    <img
+      src="https://komarev.com/ghpvc/?username=denisha227&style=for-the-badge&color=00C7FF&label=PROFILE+VIEWS"
+      alt="Profile Views"
+    />
+  </a>
+  <a href="https://github.com/denisha227">
+    <img
+      src="https://img.shields.io/github/followers/denisha227?style=for-the-badge&color=00C7FF&label=FOLLOWERS"
+      alt="GitHub Followers"
+    />
   </a>
   <a href="https://github.com/denisha227?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Repositories-Explore-00C7FF?style=for-the-badge" />
   </a>
 </p>
 
