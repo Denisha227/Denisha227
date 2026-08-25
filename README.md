@@ -101,17 +101,11 @@
 
 ---
 
-# 📅 My GitHub Contributions
+## 🐍 My Contributions
 
-<p align="center">
+![GitHub Contribution Snake](https://raw.githubusercontent.com/denisha227/Denisha227/output/github-contribution-grid-snake.svg)
 
-<img src="https://github-readme-stats.vercel.app/api?username=denisha227&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
 
-</p>
-
----
-
-# 🐍 Contribution Snake
 
 <h2>🐍 Contribution Snake</h2>
 
