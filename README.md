@@ -177,7 +177,7 @@ TypeScript
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=denisha227&theme=dark&hide_border=true&ring=00C7FF&fire=00C7FF&currStreakLabel=00C7FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=denisha227&theme=dark&hide_border=true&ring=00C7FF&fire=00C7FF&currStreakLabel=00C7FF" alt="GitHub Streak" />
 </p>
 
 ---
@@ -199,8 +199,6 @@ TypeScript
 <a href="https://github.com/denisha227" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</p>
 
 <p align="center">
 
