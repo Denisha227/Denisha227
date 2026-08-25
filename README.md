@@ -59,6 +59,7 @@
 
 ---
 
+<!-- Temporarily commented out due to 503 errors on github-readme-stats
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -70,6 +71,7 @@
 </p>
 
 ---
+-->
 
 # 🔥 Contribution Streak
 
@@ -129,8 +131,7 @@
 ```text
 Java
  ├── Data Structures & Algorithms
- ├── Problem Solving
- └── Competitive Programming
+ |── Problem Solving
 
 MERN Stack
  ├── React
@@ -146,29 +147,6 @@ TypeScript
 
 ---
 
-# 📌 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/denisha227">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=denisha227&repo=BiteBox&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/denisha227">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=denisha227&repo=RepoReaper&theme=tokyonight&hide_border=true" />
-</a>
-
-</p>
-
----
-
-# 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
----
 
 # ⚡ GitHub Metrics
 
@@ -184,8 +162,6 @@ TypeScript
 
 * 🚀 Become stronger in Full-Stack Development
 * 🧠 Solve more DSA problems
-* 💼 Prepare for Software Engineering Internships
-* 🌐 Build production-ready projects
 * 🤝 Contribute more to Open Source
 * 📈 Maintain a consistent GitHub contribution streak
 
