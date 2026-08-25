@@ -21,7 +21,6 @@
 
 * 🎓 Computer Engineering Student
 * 💻 Passionate about **Java, DSA & Full-Stack Development**
-* 🌱 Currently learning **React, Node.js, Express & TypeScript**
 * 🔥 Practicing **Data Structures & Algorithms**
 * 🛠️ Building projects with the **MERN Stack**
 * 💡 Interested in Backend Development & Software Engineering
